@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class javaLoopsCopy {
     public static void main(String[] args) {
 
@@ -17,9 +19,27 @@ public class javaLoopsCopy {
         // }
 
         // while loop
+        // while(condition){
+        //     // loop body
+        // }
+        // int a = 0;
+        // while(a<= 5){
+        //     System.out.print(a);
+        //     a+=1;
+        // }
         
         // do-while loop
+        // do{
+        //     // loop block
+        // }while(condition);
 
+        Scanner scan = new Scanner(System.in);
+        char ch;
+        do{
+            System.out.println("Executing....");
+            System.out.println("To continue y :");
+            ch = scan.nextLine().charAt(0);
+        }while(ch == 'y' || ch == 'Y');
         System.out.println("Program End");
 
     }
