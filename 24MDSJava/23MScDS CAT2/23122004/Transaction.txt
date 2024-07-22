@@ -1,0 +1,7 @@
+12/05/2003,card,asdfgh,450
+15/06/1995,cash,asdfg,500
+16/02/1996,cash,asdfg,450
+15/16/1997,card,zxcvb,4806
+18/1/1998,cash,zxcvb,40
+16/05/2001,cash,zxcvb,10
+15/10/2001,cash,werty,12

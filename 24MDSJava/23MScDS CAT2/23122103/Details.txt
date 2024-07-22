@@ -1,0 +1,4 @@
+Date: 2024 Transcation type: Card Amount: 700 Description: balance 1000
+Date: 2024 Transcation type: Cash Amount: 500 Description: balance 4900
+Date: 2024 Transcation type: Cash Amount: 90 Description: balance 680
+

@@ -1,0 +1,3 @@
+2024-05-20 expense 100  food
+2024-05-20 income 200  pocket money
+2024-05-20 expense 300  fde

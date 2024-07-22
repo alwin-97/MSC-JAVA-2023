@@ -1,0 +1,5 @@
+**********************************
+Date: 20/18/2024
+Type of transaction: income
+Amount: 100
+Description: abc

@@ -1,0 +1,4 @@
+2024,cash,2000.0,sdsdfds,2000.0,laundary
+2023,credit,200.0,sdfsd,2000.0,something
+2022,cash,2000.0,dsfsdf,10000.0,fortune
+2002,credit,234.0,dfdsf,3234.0,fdsf

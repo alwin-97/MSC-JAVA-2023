@@ -1,0 +1,1 @@
+null		income		23000.0		asset1			Transaction_Date   Trans_Type   Trans_AMOUNT    Description                                            

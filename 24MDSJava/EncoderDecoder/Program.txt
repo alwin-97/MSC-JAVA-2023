@@ -1,0 +1,44 @@
+Write a JAVA Program for encoding & decoding
+a filename that has been passed as command line argument.
+: javac MyEncoderDecoder.java
+: java MyEncoderDecoder filename.txt encode
+: java MyEncoderDecoder filename.txt decode
+
+class EncoderDecorder{
+    private String msg;
+    priavte String en_chars = "abcdefghijklmnopqrstuvwxyz";
+    priavte String de_chars = "zyxwvutsrqponmlkjihgfedcba"
+
+    EncoderDecorder(){}
+    EncoderDecorder(String msg){}
+    EncoderDecorder(String msg, String encode_decode){
+        if(encode_decode.equals("encode")){
+            this.msg = encode();
+        }else{
+            this.msg = decode();
+        }
+    }
+
+    private String encode(){
+        String temp = "";
+        for(int i=0;i<this.msg.length;i++){
+            for(int j=0;j<this.en_chars.length;j++){
+                bool flag = False;
+                if(this.msg.charAt(i)==this.en_chars.charAt(j)){
+                    temp += this.de_chars.charAt(j);
+                    flag = True;
+                }
+                if(flag == False){
+                    temp += this.msg.charAt(i);
+                }
+            }
+        }
+        return temp;
+    }
+
+    private String decode(){}
+
+    public String getMsg(){
+        return this.msg;
+    }
+}

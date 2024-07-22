@@ -1,0 +1,2 @@
+Date	type	Amount	Description
+03-10-2024	card	900.0	

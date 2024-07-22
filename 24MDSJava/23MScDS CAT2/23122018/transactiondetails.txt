@@ -1,0 +1,2 @@
+Date:12/03/2024 Transaction Type:cash Amount:2000 Description:study purpose
+Date:21/05/2024 Transaction Type:upi Amount:1500 Description:charger
